@@ -12,4 +12,5 @@ npm install
 4. Run the program `npm start`
 
 For Frontend:
+
 Follow the backend's step 1, 2 and 4
